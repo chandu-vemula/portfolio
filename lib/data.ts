@@ -71,8 +71,8 @@ export const projectsData = [
   {
     title: "Uber for Business Dashboard",
     description:
-      "Business Dashboard for clients to book Uber services for events in bulk.",
-    tags: ["React", "TypeScript", "Tailwind", "Redux", "MaterialUI"],
+      "Business Dashboard for clients to book Uber services for events.",
+    tags: ["React", "TypeScript", "Redux", "Tailwind", "MaterialUI"],
     imageUrl: rmtdevImg,
   },
   {
