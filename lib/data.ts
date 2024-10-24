@@ -71,14 +71,14 @@ export const projectsData = [
   {
     title: "Uber for Business Dashboard",
     description:
-      "Business Dashboard for clients to book Uber services for events in bulk. It has features like scheduling, Managing, filtering, sorting and pagination.",
+      "Business Dashboard for clients to book Uber services for events in bulk.",
     tags: ["React", "TypeScript", "Tailwind", "Redux", "MaterialUI"],
     imageUrl: rmtdevImg,
   },
   {
     title: "Gym Management",
     description:
-      "One of my personal projects where users can subscribe to gym membership and schedule sessions with trainers. It has features like admin dashboard, trainer dashboard, scheduling",
+      "One of my personal projects where users can subscribe to gym membership and schedule sessions with trainers.",
     tags: ["React", "Javascript", "Tailwind", "Firebase"],
     imageUrl: wordanalyticsImg,
   },
