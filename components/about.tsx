@@ -7,7 +7,7 @@ import { useSectionInView } from '@/lib/hooks'
 
 export default function About() {
 
- const { ref } = useSectionInView("About");
+ const { ref } = useSectionInView("About", 0.2);
   
   return (
     <motion.section ref={ref} className='mb-28 max-w-[45rem] text-center leading-8 sm:mb-40 scroll-mt-28'
@@ -29,7 +29,7 @@ export default function About() {
         <span className="font-medium">
           React, TypeScript, Javascript, HTML, CSS and Tailwind.{" "}
         </span>
-        I am also familiar with Next.js, Node.js, Express, MongoDB. I am always looking to learn new technologies. I am currently looking for a{" "}
+        I am also familiar with Next.js, Node.js, Express and MongoDB. I am always looking to learn new technologies. I am currently looking for a{" "}
         <span className="font-medium">full-time position</span> as a software
         developer.
       </p>

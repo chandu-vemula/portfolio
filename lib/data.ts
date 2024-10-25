@@ -39,7 +39,7 @@ export const experiencesData = [
     location: "Hyderabad, Telangana",
     description:
       "I worked as a front-end developer for 1 year and 8 months at Genpact India Pvt. Ltd. My tech stack included HTML, CSS, JavaScript, React, and Bootstrap. I also upskilled myself with TypeScript and Tailwind.",
-    icon: React.createElement(LuGraduationCap),
+    icon: React.createElement(CgWorkAlt),
     date: "2017 - 2019",
   },
   {
